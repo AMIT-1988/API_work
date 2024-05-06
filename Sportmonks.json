@@ -1,0 +1,552 @@
+{
+    "data": [
+        {
+            "id": 2,
+            "continent_id": 1,
+            "name": "Poland",
+            "official_name": "Republic of Poland",
+            "fifa_name": "POL",
+            "iso2": "PL",
+            "iso3": "POL",
+            "latitude": "52.147850036621094",
+            "longitude": "19.37775993347168",
+            "borders": [
+                "BLR",
+                "CZE",
+                "DEU",
+                "LTU",
+                "RUS",
+                "SVK",
+                "UKR"
+            ],
+            "image_path": "https://cdn.sportmonks.com/images/countries/png/short/pl.png",
+            "leagues": []
+        },
+        {
+            "id": 5,
+            "continent_id": 7,
+            "name": "Brazil",
+            "official_name": "Federative Republic of Brazil",
+            "fifa_name": "BRA",
+            "iso2": "BR",
+            "iso3": "BRA",
+            "latitude": "-10.81045150756836",
+            "longitude": "-52.97311782836914",
+            "borders": [
+                "ARG",
+                "BOL",
+                "COL",
+                "GUF",
+                "GUY",
+                "PRY",
+                "PER",
+                "SUR",
+                "URY",
+                "VEN"
+            ],
+            "image_path": "https://cdn.sportmonks.com/images/countries/png/short/br.png",
+            "leagues": []
+        },
+        {
+            "id": 11,
+            "continent_id": 1,
+            "name": "Germany",
+            "official_name": "Federal Republic of Germany",
+            "fifa_name": "GER",
+            "iso2": "DE",
+            "iso3": "DEU",
+            "latitude": "51.20246505737305",
+            "longitude": "10.382203102111816",
+            "borders": [
+                "AUT",
+                "BEL",
+                "CZE",
+                "DNK",
+                "FRA",
+                "LUX",
+                "NLD",
+                "POL",
+                "CHE"
+            ],
+            "image_path": "https://cdn.sportmonks.com/images/countries/png/short/de.png",
+            "leagues": []
+        },
+        {
+            "id": 17,
+            "continent_id": 1,
+            "name": "France",
+            "official_name": "French Republic",
+            "fifa_name": "FRA",
+            "iso2": "FR",
+            "iso3": "FRA",
+            "latitude": "46.63727951049805",
+            "longitude": "2.3382623195648193",
+            "borders": [
+                "AND",
+                "BEL",
+                "DEU",
+                "ITA",
+                "LUX",
+                "MCO",
+                "ESP",
+                "CHE"
+            ],
+            "image_path": "https://cdn.sportmonks.com/images/countries/png/short/fr.png",
+            "leagues": []
+        },
+        {
+            "id": 20,
+            "continent_id": 1,
+            "name": "Portugal",
+            "official_name": "Portuguese Republic",
+            "fifa_name": "POR",
+            "iso2": "PT",
+            "iso3": "PRT",
+            "latitude": "39.64200973510742",
+            "longitude": "-8.009422302246094",
+            "borders": [
+                "ESP"
+            ],
+            "image_path": "https://cdn.sportmonks.com/images/countries/png/short/pt.png",
+            "leagues": []
+        },
+        {
+            "id": 23,
+            "continent_id": 3,
+            "name": "Ivory Coast",
+            "official_name": "Republic of Côte d'Ivoire",
+            "fifa_name": "CIV",
+            "iso2": "CI",
+            "iso3": "CIV",
+            "latitude": "7.598755359649658",
+            "longitude": "-5.552574634552002",
+            "borders": [
+                "BFA",
+                "GHA",
+                "GIN",
+                "LBR",
+                "MLI"
+            ],
+            "image_path": "https://cdn.sportmonks.com/images/countries/png/short/ci.png",
+            "leagues": []
+        },
+        {
+            "id": 26,
+            "continent_id": 3,
+            "name": "Mali",
+            "official_name": "Republic of Mali",
+            "fifa_name": "MLI",
+            "iso2": "ML",
+            "iso3": "MLI",
+            "latitude": "17.35776710510254",
+            "longitude": "-3.5273818969726562",
+            "borders": [
+                "DZA",
+                "BFA",
+                "GIN",
+                "CIV",
+                "MRT",
+                "NER",
+                "SEN"
+            ],
+            "image_path": "https://cdn.sportmonks.com/images/countries/png/short/ml.png",
+            "leagues": []
+        },
+        {
+            "id": 32,
+            "continent_id": 1,
+            "name": "Spain",
+            "official_name": "Kingdom of Spain",
+            "fifa_name": "ESP",
+            "iso2": "ES",
+            "iso3": "ESP",
+            "latitude": "40.396026611328125",
+            "longitude": "-3.550692558288574",
+            "borders": [
+                "AND",
+                "FRA",
+                "GIB",
+                "PRT",
+                "MAR"
+            ],
+            "image_path": "https://cdn.sportmonks.com/images/countries/png/short/es.png",
+            "leagues": []
+        },
+        {
+            "id": 38,
+            "continent_id": 1,
+            "name": "Netherlands",
+            "official_name": "Netherlands",
+            "fifa_name": "NED",
+            "iso2": "NL",
+            "iso3": "NLD",
+            "latitude": "52.34225845336914",
+            "longitude": "5.5281572341918945",
+            "borders": [
+                "BEL",
+                "DEU"
+            ],
+            "image_path": "https://cdn.sportmonks.com/images/countries/png/short/nl.png",
+            "leagues": []
+        },
+        {
+            "id": 41,
+            "continent_id": 1,
+            "name": "Europe",
+            "official_name": "Europe",
+            "fifa_name": null,
+            "iso2": "EU",
+            "iso3": null,
+            "latitude": null,
+            "longitude": null,
+            "borders": [],
+            "image_path": "https://cdn.sportmonks.com/images/countries/png/short/eu.png",
+            "leagues": []
+        },
+        {
+            "id": 44,
+            "continent_id": 7,
+            "name": "Argentina",
+            "official_name": "Argentine Republic",
+            "fifa_name": "ARG",
+            "iso2": "AR",
+            "iso3": "ARG",
+            "latitude": "-37.071964263916016",
+            "longitude": "-64.85450744628906",
+            "borders": [
+                "BOL",
+                "BRA",
+                "CHL",
+                "PRY",
+                "URY"
+            ],
+            "image_path": "https://cdn.sportmonks.com/images/countries/png/short/ar.png",
+            "leagues": []
+        },
+        {
+            "id": 47,
+            "continent_id": 1,
+            "name": "Sweden",
+            "official_name": "Kingdom of Sweden",
+            "fifa_name": "SWE",
+            "iso2": "SE",
+            "iso3": "SWE",
+            "latitude": "62.67497253417969",
+            "longitude": "16.798059463500977",
+            "borders": [
+                "FIN",
+                "NOR"
+            ],
+            "image_path": "https://cdn.sportmonks.com/images/countries/png/short/se.png",
+            "leagues": []
+        },
+        {
+            "id": 62,
+            "continent_id": 1,
+            "name": "Switzerland",
+            "official_name": "Swiss Confederation",
+            "fifa_name": "SUI",
+            "iso2": "CH",
+            "iso3": "CHE",
+            "latitude": "46.80379867553711",
+            "longitude": "8.222854614257812",
+            "borders": [
+                "AUT",
+                "FRA",
+                "ITA",
+                "LIE",
+                "DEU"
+            ],
+            "image_path": "https://cdn.sportmonks.com/images/countries/png/short/ch.png",
+            "leagues": []
+        },
+        {
+            "id": 80,
+            "continent_id": 7,
+            "name": "Chile",
+            "official_name": "Republic of Chile",
+            "fifa_name": "CHI",
+            "iso2": "CL",
+            "iso3": "CHL",
+            "latitude": "-35.78622817993164",
+            "longitude": "-71.67467498779297",
+            "borders": [
+                "ARG",
+                "BOL",
+                "PER"
+            ],
+            "image_path": "https://cdn.sportmonks.com/images/countries/png/short/cl.png",
+            "leagues": []
+        },
+        {
+            "id": 86,
+            "continent_id": 1,
+            "name": "Ukraine",
+            "official_name": "Ukraine",
+            "fifa_name": "UKR",
+            "iso2": "UA",
+            "iso3": "UKR",
+            "latitude": "48.92656326293945",
+            "longitude": "31.47578239440918",
+            "borders": [
+                "BLR",
+                "HUN",
+                "MDA",
+                "POL",
+                "ROU",
+                "RUS",
+                "SVK"
+            ],
+            "image_path": "https://cdn.sportmonks.com/images/countries/png/short/ua.png",
+            "leagues": []
+        },
+        {
+            "id": 98,
+            "continent_id": 4,
+            "name": "Australia",
+            "official_name": "Commonwealth of Australia",
+            "fifa_name": "AUS",
+            "iso2": "AU",
+            "iso3": "AUS",
+            "latitude": "-25.585241317749023",
+            "longitude": "134.50411987304688",
+            "borders": [],
+            "image_path": "https://cdn.sportmonks.com/images/countries/png/short/au.png",
+            "leagues": [
+                {
+                    "id": 2155,
+                    "sport_id": 6,
+                    "country_id": 98,
+                    "name": "Big Bash League",
+                    "active": true,
+                    "short_code": null,
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/leagues/5/5.png",
+                    "type": "league",
+                    "sub_type": "domestic",
+                    "last_played_at": null,
+                    "category": 4,
+                    "has_jerseys": false
+                }
+            ]
+        },
+        {
+            "id": 107,
+            "continent_id": 2,
+            "name": "Iraq",
+            "official_name": "Republic of Iraq",
+            "fifa_name": "IRQ",
+            "iso2": "IQ",
+            "iso3": "IRQ",
+            "latitude": "33.044586181640625",
+            "longitude": "43.77495574951172",
+            "borders": [
+                "IRN",
+                "JOR",
+                "KWT",
+                "SAU",
+                "SYR",
+                "TUR"
+            ],
+            "image_path": "https://cdn.sportmonks.com/images/countries/png/short/iq.png",
+            "leagues": []
+        },
+        {
+            "id": 116,
+            "continent_id": 1,
+            "name": "Cyprus",
+            "official_name": "Republic of Cyprus",
+            "fifa_name": "CYP",
+            "iso2": "CY",
+            "iso3": "CYP",
+            "latitude": "35.11473846435547",
+            "longitude": "33.486717224121094",
+            "borders": [
+                "GBR"
+            ],
+            "image_path": "https://cdn.sportmonks.com/images/countries/png/short/cy.png",
+            "leagues": []
+        },
+        {
+            "id": 119,
+            "continent_id": 2,
+            "name": "Georgia",
+            "official_name": "Georgia",
+            "fifa_name": "GEO",
+            "iso2": "GE",
+            "iso3": "GEO",
+            "latitude": "42.3207845",
+            "longitude": "43.3713615",
+            "borders": [
+                "ARM",
+                "AZE",
+                "RUS",
+                "TUR"
+            ],
+            "image_path": "https://cdn.sportmonks.com/images/countries/png/short/ge.png",
+            "leagues": []
+        },
+        {
+            "id": 122,
+            "continent_id": 1,
+            "name": "Kosovo",
+            "official_name": "Republic of Kosovo",
+            "fifa_name": null,
+            "iso2": "XK",
+            "iso3": "UNK",
+            "latitude": null,
+            "longitude": null,
+            "borders": [
+                "ALB",
+                "MKD",
+                "MNE",
+                "SRB"
+            ],
+            "image_path": "https://cdn.sportmonks.com/images/countries/png/short/xk.png",
+            "leagues": []
+        },
+        {
+            "id": 125,
+            "continent_id": 1,
+            "name": "Greece",
+            "official_name": "Hellenic Republic",
+            "fifa_name": "GRE",
+            "iso2": "GR",
+            "iso3": "GRC",
+            "latitude": "39.68437194824219",
+            "longitude": "21.897409439086914",
+            "borders": [
+                "ALB",
+                "BGR",
+                "TUR",
+                "MKD"
+            ],
+            "image_path": "https://cdn.sportmonks.com/images/countries/png/short/gr.png",
+            "leagues": []
+        },
+        {
+            "id": 143,
+            "continent_id": 1,
+            "name": "Austria",
+            "official_name": "Republic of Austria",
+            "fifa_name": "AUT",
+            "iso2": "AT",
+            "iso3": "AUT",
+            "latitude": "47.58843994140625",
+            "longitude": "14.14021110534668",
+            "borders": [
+                "CZE",
+                "DEU",
+                "HUN",
+                "ITA",
+                "LIE",
+                "SVK",
+                "SVN",
+                "CHE"
+            ],
+            "image_path": "https://cdn.sportmonks.com/images/countries/png/short/at.png",
+            "leagues": []
+        },
+        {
+            "id": 146,
+            "continent_id": 3,
+            "name": "South Africa",
+            "official_name": "Republic of South Africa",
+            "fifa_name": "RSA",
+            "iso2": "ZA",
+            "iso3": "ZAF",
+            "latitude": "-29.046184539794922",
+            "longitude": "25.06287956237793",
+            "borders": [
+                "BWA",
+                "LSO",
+                "MOZ",
+                "NAM",
+                "SWZ",
+                "ZWE"
+            ],
+            "image_path": "https://cdn.sportmonks.com/images/countries/png/short/za.png",
+            "leagues": [
+                {
+                    "id": 2160,
+                    "sport_id": 6,
+                    "country_id": 146,
+                    "name": "CSA T20 Challenge",
+                    "active": true,
+                    "short_code": null,
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/leagues/10/10.png",
+                    "type": "league",
+                    "sub_type": "domestic",
+                    "last_played_at": null,
+                    "category": 4,
+                    "has_jerseys": false
+                }
+            ]
+        },
+        {
+            "id": 147,
+            "continent_id": 3,
+            "name": "Africa",
+            "official_name": "Africa",
+            "fifa_name": null,
+            "iso2": null,
+            "iso3": null,
+            "latitude": null,
+            "longitude": null,
+            "borders": [],
+            "image_path": null,
+            "leagues": []
+        },
+        {
+            "id": 155,
+            "continent_id": 1,
+            "name": "Romania",
+            "official_name": "Romania",
+            "fifa_name": "ROU",
+            "iso2": "RO",
+            "iso3": "ROU",
+            "latitude": "45.83774185180664",
+            "longitude": "25.005935668945312",
+            "borders": [
+                "BGR",
+                "HUN",
+                "MDA",
+                "SRB",
+                "UKR"
+            ],
+            "image_path": "https://cdn.sportmonks.com/images/countries/png/short/ro.png",
+            "leagues": []
+        }
+    ],
+    "pagination": {
+        "count": 25,
+        "per_page": 25,
+        "current_page": 1,
+        "next_page": "https://api.sportmonks.com/v3/core/countries?include=leagues%3B&page=2",
+        "has_more": true
+    },
+    "subscription": [
+        {
+            "meta": [],
+            "plans": [
+                {
+                    "plan": "Football Free Plan",
+                    "sport": "Football",
+                    "category": "Standard"
+                },
+                {
+                    "plan": "Cricket Free Plan",
+                    "sport": "Cricket",
+                    "category": "Standard"
+                }
+            ],
+            "add_ons": [],
+            "widgets": []
+        }
+    ],
+    "rate_limit": {
+        "resets_in_seconds": 3115,
+        "remaining": 2998,
+        "requested_entity": "Country"
+    },
+    "timezone": "UTC"
+}

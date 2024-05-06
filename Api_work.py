@@ -1,7 +1,7 @@
 import requests
 
 # Define the API endpoint URL
-url = "https://api.sportmonks.com/v3/core/countries/1161?api_token=MeXYvpmiUUDCyK2p5LIO2hZfn5FBzxMzQWAeTxFz5dEpz3T4igMtML9dMZ4J"
+url = "https://api.sportmonks.com/v3/core/countries?api_token=zbzaHmvJh3TAa7Ta4CeZp1fI5Tqck7HT7kjYdWWAAkUU7YOYbICnhXL2jAPz&include=leagues;"
 
 # Make a GET request to the API endpoint
 response = requests.get(url)
@@ -16,3 +16,4 @@ if response.status_code == 200:
 else:
     # Print an error message if the request was not successful
     print(f"Error: {response.status_code}")
+
